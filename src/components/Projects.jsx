@@ -23,7 +23,7 @@ const Projects = () => {
         "Anvaya CRM is a lead management app that allows adding, editing, and deleting leads and agents, with the ability to comment on leads for seamless team collaboration.",
       image:
         "https://plus.unsplash.com/premium_photo-1661765270050-c32ec060cb4b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1pbi1zYW1lLXNlcmllc3wxfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=800",
-      tech: ["React", "Bootstrap", "Node.js", "Express.js", "MongoDB"],
+      tech: ["React", "Bootstrap", "Node.js", "Express.js", "MongoDB", "Chart.js"],
       demo: "https://drive.google.com/file/d/1iCxBhtq0YNcthXIcKQ5WHYpfcSYWyYlr/view?usp=drive_link",
       code: "https://github.com/ChethanFrontendDev/FE_Major_Project-2",
     },
