@@ -1,7 +1,6 @@
 # My Portfolio
 
-A modern single-page portfolio built with React and Bootstrap, featuring smooth section-based navigation, project showcases with demo links, and a clean presentation of my skills and contact information.
-The design is fully responsive and optimized for a seamless user experience across devices.
+A modern single-page portfolio showcasing my work, skills, and experience with smooth in-page navigation and a clean user-focused design. The site features project previews with demo and code links, a responsive layout for all screen sizes, and an intuitive scrolling experience for seamless interaction.
 
 Built with **React** and **Bootstrap**
 
